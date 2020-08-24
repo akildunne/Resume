@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Kildunne",
+    "website": "****",
+    "linkedin": "https://www.linkedin.com/in/akildunne/",
+    "github": "akildunne",
+    "email": "a.kildunne@gmail.com",
+    "resume": "****",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Project Management",
+        "Visual Design"
+    ]
+}
